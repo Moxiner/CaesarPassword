@@ -12,17 +12,17 @@ __还有人不知道怎么用凯撒密码加解密工具？__
 
 ## 使用方法
 
-### 命令行行
+### 【命令行行版】
 ####【Step 1】
 在命令行输入以下代码，或点击[这个链接](https://codeload.github.com/Moxiner/CaesarPassword/zip/refs/heads/main) 
 
 
-```git clone https://github.com/Moxiner/CaesarPassword``
+```git clone https://github.com/Moxiner/CaesarPassword```
 
 #### 【Step 2】
 然后运行```CaesarPassword.py``` 即可
 
-### 运行程序
+### 【运行程序版】
 
 #### 【Step 1】
 点击[这个链接下载](https://github.com/Moxiner/CaesarPassword/releases/download/v1.1/CaesarPassword.exe)
